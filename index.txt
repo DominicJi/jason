@@ -1,6 +1,5 @@
-<<<<<<< Updated upstream
 修复bug并上线
-=======
 图片功能
 电影功能1/2
->>>>>>> Stashed changes
+电影功能2/3
+
